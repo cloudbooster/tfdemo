@@ -1,6 +1,6 @@
 resource "azurerm_resource_group" "aci-rg" {
 
-  name     = "aci-test"
+  name     = "aci-test-corey1"
 
   location = "east us"
 
